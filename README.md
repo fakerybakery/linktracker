@@ -1,3 +1,4 @@
+### This repo is no longer being maintained as of 2022.
 # linktracker
 A small, simple, lightweight link tracker with PHP and MySQL!
 Works with PHP 7.4+ (compatible with PHP 8!!!)
